@@ -11,6 +11,7 @@ list_of_files = [
     ".env",
     "setup.py",
     "app.py",
+    "requirements.txt",
     "research/trails.ipynb"
 ]
 
